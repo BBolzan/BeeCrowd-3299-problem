@@ -1,7 +1,7 @@
-package src.main.java.hello;
+package hello;
 
 public class SmallUnluckNumbers {
-    public static String contemNumero13(long numero){
+    public String contemNumero13(long numero){
         String number = Long.toString(numero);
 
         if(number.contains("13")){
