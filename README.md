@@ -24,3 +24,4 @@
 
 
 Lazaro putao
+e gay
