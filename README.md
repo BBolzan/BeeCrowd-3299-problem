@@ -21,3 +21,6 @@
 1. Ainda na raiz do repositorio execute o comando abaixo:
 2. `mvn test`
 3. Após isso será executado os testes e no final devera aparecer a mensagem "build success"
+
+
+Lazaro putao
