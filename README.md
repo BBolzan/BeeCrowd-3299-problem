@@ -22,6 +22,3 @@
 2. `mvn test`
 3. Após isso será executado os testes e no final devera aparecer a mensagem "build success"
 
-
-Lazaro putao
-e gay
